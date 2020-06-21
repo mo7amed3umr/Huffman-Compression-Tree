@@ -1,0 +1,15 @@
+Magnetic fluids used in MDT systems must be biodegradable and nontoxic.
+They should have strong magnetic polarization and must maintain colloidal
+stability in biological systems. Recent developments in the synthesis of biocompatible ferrofluids have successfully addressed most of these material issues.
+Development in MDT design, therefore, needs systematic characterization of
+the ferrofluid (and the bonded chemotherapeutic agent) transport phenomena
+in the host body fluid flow.
+The diffusion of a ferrofluid drop into the host liquid influences the release
+of the drug contained within it. Our objective is to visualize and characterize
+the magnetically induced accumulation of ferrofluid at a target location and
+its subsequent dispersion in a steady host fluid flow. Although the blood or
+other biological fluid flow occur in a pulsatile mode, a steady flow analysis
+can reveal the basic interaction between magnetic and fluid shear forces and it
+provides important information about fluid transport. A numerical simulation is
+performed to obtain better insight through mapping the ferrofluid concentration
+distribution and mass flux.
